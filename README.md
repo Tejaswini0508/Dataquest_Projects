@@ -1,1 +1,1 @@
-This repository includes all the projects which I have worked on under the DataScience Dataquest Projects on the [Dataquest](https://www.dataquest.io/) platform.
+This repository includes all the projects which I have worked on under the DataScience Dataquest Projects on the [Dataquest](https://www.dataquest.io/) platform and also some additional adhoc projects for practice purpose.
